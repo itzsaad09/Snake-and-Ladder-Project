@@ -22,6 +22,8 @@ A classic Snake and Ladder game implemented in C++ for the console. Challenge yo
 
 * [License](#license)
 
+* [Author](#author)
+
 ## Description
 
 This project is a console-based implementation of the popular board game "Snake and Ladder." Two players take turns rolling a dice, moving their respective tokens on a 100-square board. The objective is to be the first player to reach square 100. Be careful of snakes that send you down, and look out for ladders that give you a boost!
@@ -160,4 +162,15 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is open-source and available under the [MIT License](#LICENSE.md).
+This project is open-source and available under the [MIT License](LICENSE.md).
+
+## Author
+
+👤 **Hafiz Muhammad Saad**
+
+* Github: [@itzsaad09](https://github.com/itzsaad09)
+* LinkedIn: [@itzsaad09](https://linkedin.com/in/itzsaad09)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
