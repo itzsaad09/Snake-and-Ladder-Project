@@ -4,23 +4,23 @@ A classic Snake and Ladder game implemented in C++ for the console. Challenge yo
 
 ## Table of Contents
 
-* [Description](https://www.google.com/search?q=%23description)
+* [Description](#description)
 
-* [Features](https://www.google.com/search?q=%23features)
+* [Features](#features)
 
-* [How to Play](https://www.google.com/search?q=%23how-to-play)
+* [How to Play](#how-to-play)
 
-* [Game Rules](https://www.google.com/search?q=%23game-rules)
+* [Game Rules](#game-rules)
 
-* [Snakes and Ladders](https://www.google.com/search?q=%23snakes-and-ladders)
+* [Snakes and Ladders](#snakes-and-ladders)
 
-* [Technologies Used](https://www.google.com/search?q=%23technologies-used)
+* [Technologies Used](#technologies-used)
 
-* [Setup/Installation](https://www.google.com/search?q=%23setupinstallation)
+* [Setup/Installation](#setupinstallation)
 
-* [Contributing](https://www.google.com/search?q=%23contributing)
+* [Contributing](#contributing)
 
-* [License](https://www.google.com/search?q=%23license)
+* [License](#license)
 
 ## Description
 
@@ -160,4 +160,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md).
+This project is open-source and available under the [MIT License](#LICENSE.md).
